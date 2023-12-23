@@ -13,13 +13,9 @@ A basic wallet application developed using HTML, CSS, and JavaScript that enable
 - **Check Balance:**
   - Users can check their wallet balance.
 
-## Usage
+## Tech Stack
 
-1. Open the `index.html` file in your preferred web browser.
-
-2. Navigate to the "Add Money" section to add funds to your wallet.
-
-3. Use the "Transfer Money" section to send money to other users.
-
-4. Check your wallet balance in the "Check Balance" section.
-
+- **Frontend:**
+  - HTML
+  - CSS
+  - JavaScript

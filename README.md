@@ -1,4 +1,4 @@
-# 𝑾𝒂𝒍𝒍𝒆𝒕 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏
+# 💱 𝑾𝒂𝒍𝒍𝒆𝒕 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏
 
 A basic wallet application developed using HTML, CSS, and JavaScript that enables users to perform common wallet operations.
 
